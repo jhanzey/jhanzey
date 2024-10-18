@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning philosophy, psychology, and crafts
 - 📫 Reach me through @tiny.signals on Instagram
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
 
 <!---
 jhanzey/jhanzey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
